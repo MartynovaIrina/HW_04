@@ -1,0 +1,10 @@
+
+		{
+			"id": 2,
+			"type": "Users.User",
+			"name": "Yaroslav",
+			"age": 27,
+			"isDeleted": true
+		}
+	
+

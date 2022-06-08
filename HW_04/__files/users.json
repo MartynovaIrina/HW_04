@@ -1,0 +1,22 @@
+{
+	[
+		{
+			"id": 1,
+			"type": "Users.Admin",
+			"name": "Ivan",
+			"age": 30
+		},
+		{
+			"id": 2,
+			"type": "Users.User",
+			"name": "Yaroslav",
+			"age": 27
+		},
+		{
+			"id": 3,
+			"type": "Users.Admin",
+			"name": "Alisa",
+			"age": 35
+		}
+	]
+}

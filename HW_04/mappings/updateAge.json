@@ -1,0 +1,13 @@
+{   
+    "request": {
+        "urlPathPattern": "/users/1/updateAge",
+        "method": "PATCH",
+        "bodyPatterns": [{
+            "equalToJson": "{\"age\": 25}"
+        }]
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "updateAge.json"
+    }
+}
